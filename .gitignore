@@ -1,0 +1,7 @@
+/.idea/
+/.vscode/
+/build/
+/mysh
+/unit_tests
+/tests/tester/
+/*.pdf
